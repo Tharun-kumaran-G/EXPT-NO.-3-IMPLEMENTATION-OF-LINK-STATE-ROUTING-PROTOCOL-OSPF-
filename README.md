@@ -5,10 +5,16 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 
 # EQUIPMENTS REQUIRED
 
+- Desktop Computer
+- Cisco Packet Tracer 5.0 Software
+
 # IP ASSIGNMENT
+
+<img width="827" height="515" alt="image" src="https://github.com/user-attachments/assets/bd5776f9-9488-4391-b021-c8ab12ab57a2" />
 
 # NETWORK DIAGRAM
 
+<img width="676" height="465" alt="image" src="https://github.com/user-attachments/assets/eb653937-0f48-48e2-bf46-c0cb96aaf742" />
 
 # PROCEDURE
 STEP 1: Open a Packet Tracer Software.
@@ -23,7 +29,7 @@ STEP 11: Check the routing table in Delhi router and Chennai router using show i
 
 # OUTPUT
 
-
+<img width="791" height="898" alt="image" src="https://github.com/user-attachments/assets/a48a1b72-9174-43d4-a2c3-966e41e50c95" />
 
 # RESULT
 Thus the computers in multiple networks using Open Shortest Path First Routing Protocol is connected and the connectivity between the computers is verified.
